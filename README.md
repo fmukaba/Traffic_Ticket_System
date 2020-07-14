@@ -1,6 +1,6 @@
 # Traffic_Ticket_System
 
-### For a description of this project click [here](https://drive.google.com/drive/folders/1_L9NWPiF1rx7p8BQ3eIo2ClI5WG0M2iL?usp=sharing)
+### For a description of this project click [here](https://github.com/fxnolimit/Traffic_Ticket_System/blob/master/Description.pdf)
 
 ### What I have learned:
   
