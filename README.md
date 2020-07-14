@@ -8,3 +8,4 @@
     AWS S3
     AWS Lambda
     AWS Rekognition
+    AWS SNS
