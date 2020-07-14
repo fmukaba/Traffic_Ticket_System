@@ -1,0 +1,53 @@
+
+private const string dmv = @"<database>
+            <vehicle>
+                <plate>6TRJ244</plate>
+                <make>Ford</make>
+                <model>Focus</model>
+                <color>Red</color>
+                <owner>
+                    <name>John Smith</name>
+                    <phone>+14256667777</phone>
+                </owner>
+            </vehicle>
+            <vehicle>
+                <plate>5ALN015</plate>
+                <make>Honda</make>
+                <model>Civic</model>
+                <color>Blue</color>
+                <owner>
+                    <name>Jennifer Hartley</name>
+                    <phone>+14256667777</phone>
+                </owner>
+            </vehicle>
+            <vehicle>
+                <plate>7TRR812</plate>
+                <make>Jeep</make>
+                <model>Wrangler</model>
+                <color>Yellow</color>
+                <owner>
+                    <name>Matt Johnson</name>
+                    <phone>+14256667777</phone>
+                </owner>
+            </vehicle>
+            <vehicle>
+                <plate>3ZZB646</plate>
+                <make>Honda</make>
+                <model>CRV</model>
+                <color>Silver</color>
+                <owner>
+                    <name>Dawn Fink</name>
+                    <phone>+14256667777</phone>
+                </owner>
+            </vehicle>
+            <vehicle>
+                <plate>6YMX832</plate>
+                <make>Chevrolet</make>
+                <model>Cruze</model>
+                <color>Red</color>
+                <owner>
+                    <name>Tim Carpenter</name>
+                    <phone>+14256667777</phone>
+                </owner>
+            </vehicle>
+        </database>";
